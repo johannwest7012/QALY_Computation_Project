@@ -1,6 +1,6 @@
 Johann West
 
-**Quality Adjusted-Life Years Computation Framework and Software Application Undergraduate Computer Science Research Proposal**
+# Quality Adjusted-Life Years Computation Framework and Software Application Undergraduate Computer Science Research Proposal**
 
 CS 3860
 
