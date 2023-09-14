@@ -2,17 +2,18 @@ import React from 'react';
 
 // Styling 
 // ---------------
-import './Navbar.css'; 
+import styles from './Navbar.module.css'; 
 
 // Assets 
 // --------------
 import placeholderlogo from "../assets/placeholderlogo.webp";
+import qalylogo from "../assets/qalylogo.svg";
 
 const Navbar = () => {
   return (
-    <div className="navbar">
-      <div className="logo">
-        <img src={placeholderlogo} alt="Logo" />
+    <div className={styles.navbar}>
+      <div className={styles.logo}>
+        <img src={qalylogo} className={styles.logoimg} alt="Logo" />
       </div>
     </div>
   );
